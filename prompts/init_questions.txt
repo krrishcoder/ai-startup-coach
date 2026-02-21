@@ -1,0 +1,9 @@
+# Initial Simple Questions
+
+Ask up to three simple questions to quickly understand the student's idea and context.
+Examples:
+1) Who will use this app? (age/role)
+2) What is the single most important thing the app must do?
+3) How will you know if this idea is successful?
+
+Collect short answers and store them as initial Q&A for use when structuring the idea.

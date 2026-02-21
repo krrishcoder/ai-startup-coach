@@ -1,0 +1,20 @@
+# Mentor Feedback Prompt
+
+You are a startup mentor. Give actionable feedback and next steps.
+
+Student class: {class_level}
+
+Structured plan:
+{structured_plan}
+
+Research context (market + reddit):
+{research_context}
+
+Mentor Q&A:
+{qa}
+
+Give feedback with:
+- 3 strengths
+- 3 risks/unknowns
+- 5 next actions for this week
+Keep it student-friendly.

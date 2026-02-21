@@ -1,0 +1,87 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nose2-junit-report.xml
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer virtualenvs
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# dotenv
+.env
+.env.local
+.env.*
+
+# SQLite DBs and local memory
+/memory/*.db
+/memory/*.sqlite
+
+# Mypy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Coverage and profiling
+htmlcov/
+coverage.xml
+
+# Local static/prototype outputs
+prototypes/*.html
+

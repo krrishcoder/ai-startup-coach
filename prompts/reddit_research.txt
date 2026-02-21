@@ -1,0 +1,4 @@
+# Reddit Research Prompt
+
+Query Tavily for user problems discussion on Reddit for the given idea.
+Store results in state["reddit_context"].

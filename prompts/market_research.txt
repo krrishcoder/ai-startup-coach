@@ -1,0 +1,4 @@
+# Market Research Prompt
+
+Query Tavily for market competitors in India for the given idea.
+Store results in state["market_info"].
